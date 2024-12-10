@@ -51,3 +51,6 @@
 
 <h2>Conclusion</h2>
 <p>MU plugins are especially beneficial for developers and administrators who need strong control over a WordPress site’s core functionalities. By placing critical code in the <code>mu-plugins</code> directory, you ensure that vital features remain active and protected from accidental deactivation.</p>
+
+<h2>How to use this file</h2>
+<p>download > go to wordpress directory > wp-content > mu-plugins > paste/ move the file "wp-essential-loader.php"</p>
