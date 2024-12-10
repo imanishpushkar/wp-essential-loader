@@ -1,4 +1,4 @@
-<h1>WP Essential Loader</h1>
+# WP Essential Loader
 
 <h2>Overview</h2>
 <p>MU plugins (Must-Use Plugins) are essential for ensuring that critical functionalities of your WordPress site remain intact. For instance, if plugins like <strong>ACF (Advanced Custom Fields)</strong> or <strong>ACF Pro</strong> are extensively used and accidentally deactivated, the entire website might break due to missing hooks and functions. Similarly, deactivating a multilingual plugin such as <strong>WPML</strong> or <strong>Polylang</strong> can lead to errors or a failure to load localized content.</p>
